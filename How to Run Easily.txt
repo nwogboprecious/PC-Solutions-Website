@@ -1,0 +1,9 @@
+## How to Run
+
+1. Extract `PC Solutions Software.zip` anywhere on your PC.
+2. Open the folder and double-click `run_local.bat`.
+3. Wait for the script to finish; the site will start at:
+
+   [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
+4. Open this link in your browser to view the website.
